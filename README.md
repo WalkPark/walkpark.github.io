@@ -1,7 +1,3 @@
-## CleftObsidian's Page
-
-Game Development Studies
-
 [My Github](https://github.com/WalkPark)
 
 ## Github Contents
